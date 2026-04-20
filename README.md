@@ -13,9 +13,9 @@
 - [🧰 Library / Framework yang Digunakan](#-library--framework-yang-digunakan)
   
 ## 👤 Profil Anggota
-|   Muhammad Nur Alfian   |    Nanda Pesona Putri   |  Jabbar Hafizh Abdillah  |   Keisya Siti Nafisa Andini   |  Chaessario Taufiqul Hakim  |
+|   Muhammad Nur Alfian   |    Nanda Pesona Putri   |  Jabbar Hafizh Abdillah  |   Keisya Siti Nafisa Andini   |  Chaesarrio Taufiqul Hakim  |
 |-------------------------|-------------------------|--------------------------|------------------------|-----------------------------|
-| **NIM:** 2309116105 <br> **Kelas:** SI C '24 <br> | **NIM:** 2309116101 <br> **Kelas:** SI C '24 <br>  | **NIM:** 2309116116 <br> **Kelas:** SI C '24 <br> | **NIM:** 2309116115 <br> **Kelas:** SI C '24 <br> | **NIM:** 2309116096 <br> **Kelas:** SI C '24 <br> |
+| **NIM:** 2409116105 <br> **Kelas:** SI C '24 <br> | **NIM:** 2409116101 <br> **Kelas:** SI C '24 <br>  | **NIM:** 2409116116 <br> **Kelas:** SI C '24 <br> | **NIM:** 2409116115 <br> **Kelas:** SI C '24 <br> | **NIM:** 2409116096 <br> **Kelas:** SI C '24 <br> |
 
 ## Nama Program. 
 
