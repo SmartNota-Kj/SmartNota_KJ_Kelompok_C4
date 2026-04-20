@@ -5,14 +5,8 @@
 <img width="1280" height="1280" alt="image" src="https://github.com/user-attachments/assets/6583026c-8c8f-4f64-a070-5895729d92c8" />
 
 <h2 align="center" style="color:#4CAF50;">APLIKASI SMARTNOTA KJ</h2>
-
-## 📚 Daftar Isi
-- [👤 Profil Anggota](#-profil-anggota)
-- [📝 Deskripsi Program](#-deskripsi-program)
-- [⚙️ Fitur Program](#️-fitur-program)
-- [📂 Struktur Folder / Package](#-struktur-folder--package)
   
-## 👤 Profil Anggota
+## Profil Anggota
 |   Muhammad Nur Alfian   |    Nanda Pesona Putri   |  Jabbar Hafizh Abdillah  |   Keisya Siti Nafisa Andini   |  Chaesarrio Taufiqul Hakim  |
 |-------------------------|-------------------------|--------------------------|------------------------|-----------------------------|
 | **NIM:** 2409116105 <br> **Kelas:** SI C '24 <br> | **NIM:** 2409116101 <br> **Kelas:** SI C '24 <br>  | **NIM:** 2409116116 <br> **Kelas:** SI C '24 <br> | **NIM:** 2409116115 <br> **Kelas:** SI C '24 <br> | **NIM:** 2409116096 <br> **Kelas:** SI C '24 <br> |
@@ -22,7 +16,7 @@ SmartNota KJ merupakan aplikasi berbasis digital yang dirancang untuk membantu p
 
 ---
 
-### ⚙️ 1. Teknologi & Package
+### 1. Teknologi & Package
 
 | Package              | Versi    | Kegunaan                                        |
 | -------------------- | -------- | ----------------------------------------------- |
@@ -51,7 +45,7 @@ Fungsi utama SmartNota KJ adalah mengarsipkan dan mengelola nota secara digital 
 
 ---
 
-### 👥 3. Peran Utama dalam Sistem  
+### 3. Peran Utama dalam Sistem  
 - **Supervisor**: Menginput hasil panen dan menerima permintaan pesanan dari distributor.  
 - **Admin**: Melihat data hasil panen petani dan membuat permintaan.  
 
@@ -59,41 +53,44 @@ Fungsi utama SmartNota KJ adalah mengarsipkan dan mengelola nota secara digital 
 
 Aplikasi **SmartNota KJ** memiliki beberapa fitur utama yang dibedakan berdasarkan peran pengguna: **Supervisor** dan **Admin**. 
 
-### 1. Fitur untuk Admin
-Admin memiliki kontrol penuh terhadap sistem dan pengguna dalam aplikasi AgriChain. Berikut fitur-fitur utama yang dapat dilakukan oleh admin:
+### 1. Fitur untuk Role Supervisor
+Admin memiliki kontrol penuh terhadap sistem dan pengguna dalam aplikasi SmartNota KJ. Berikut fitur-fitur utama yang dapat dilakukan oleh admin:
 
 **Kelola Akun Admin**
 Admin dapat menambah, mengedit, dan menghapus data akun pengguna yang memiliki akses ke sistem SmartNota KJ. Informasi yang dikelola meliputi nama, nomor telepon, serta status akun (aktif/nonaktif) untuk memastikan kontrol akses yang teratur.
-Upload Nota
+
+**Upload Nota**
 Admin dapat mengunggah (upload) data nota transaksi dari berbagai toko yang tersedia di sistem. Data yang diinput mencakup informasi toko, tanggal transaksi, serta detail nota lainnya untuk keperluan pencatatan dan monitoring.
-Edit & Hapus Nota
+
+**Edit & Hapus Nota**
 Admin dapat melakukan perubahan (edit) maupun penghapusan data nota apabila terdapat kesalahan input atau data sudah tidak diperlukan, sehingga menjaga keakuratan database.
-Download Nota
+
+**Download Nota**
 Admin dapat mengunduh data nota yang tersimpan dalam sistem untuk keperluan arsip, pelaporan, atau analisis lebih lanjut.
-Filter Chip dan Rentang Tanggal
+
+**Filter Chip dan Rentang Tanggal**
 Admin dapat memfilter data nota berdasarkan kategori tertentu (seperti toko) serta rentang tanggal tertentu, sehingga memudahkan pencarian dan analisis data transaksi.
-Arsip Nota
+
+**Arsip Nota**
 Admin dapat mengarsipkan nota yang sudah tidak aktif atau sudah selesai diproses. Fitur ini membantu dalam pengelompokan data antara nota aktif dan arsip agar tampilan tetap rapi dan terorganisir. 
   
 ---
 
-###  2. Fitur untuk Admin
-- **Upload Nota**  
-  Petani dapat menambahkan data hasil panen seperti luas lahan, nama sawah, dan lokasi.
-  
-- **Download Nota**  
-  Petani dapat melihat daftar permintaan dari distributor dan menerima permintaan tersebut.
-  
-- **Filter Rentang Tanggal**  
-  Menampilkan informasi panen dan permintaan dalam satu tampilan yang mudah dipahami.  
+###  2. Fitur untuk Role Admin
+**Upload Nota**
+Admin dapat menambahkan data nota transaksi ke dalam sistem SmartNota KJ dengan mengisi informasi seperti nama toko, tanggal transaksi, serta detail nota lainnya.
+
+**Download Nota**
+Admin dapat mengunduh data nota yang tersimpan sebagai file untuk keperluan arsip, pelaporan, atau dokumentasi.
+
+**Filter Rentang Tanggal**
+Admin dapat memfilter dan menampilkan data nota berdasarkan rentang tanggal tertentu, sehingga memudahkan pencarian dan analisis data transaksi dalam periode tertentu.
 
 ---
 
-## 📂 Struktur Folder / Package
+## Struktur Folder / Package
 
-## 📁 Struktur Folder
-
-```bash
+```
 lib/
 ├── constants/
 │   └── store_options.dart
@@ -136,12 +133,7 @@ lib/
 └── main.dart
 ```
 
-## Widget yang Digunakan
-# SmartNota KJ
 
-> Aplikasi Flutter untuk manajemen arsip foto nota berbasis cloud
-
----
 
 ## Deskripsi Aplikasi
 
@@ -249,9 +241,6 @@ Digunakan untuk membuat nomor nota yang unik secara otomatis berbasis UUID, sehi
 
 ### 6. `google_fonts`
 Digunakan untuk menerapkan tipografi kustom (Playfair Display) pada elemen-elemen branding seperti judul aplikasi di dashboard, memberikan kesan visual yang lebih profesional dan konsisten.
+
 ---
 
-
-
-  
->>>>>>> cd224c42e6e6f13d1907b1f094d7362c85141f81
