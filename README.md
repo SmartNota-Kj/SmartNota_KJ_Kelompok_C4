@@ -15,7 +15,7 @@
 ## 👤 Profil Anggota
 |   Muhammad Nur Alfian   |    Nanda Pesona Putri   |  Jabbar Hafizh Abdillah  |   Keisya Siti Nafisa Andini   |  Chaessario Taufiqul Hakim  |
 |-------------------------|-------------------------|--------------------------|------------------------|-----------------------------|
-| **NIM:** 2309116105 <br> **Kelas:** SI C '24 <br> | **NIM:** 2309116101 <br> **Kelas:** SI C '24 <br>  | **NIM:** 2309116116 <br> **Kelas:** SI C '24 <br> | **NIM:** 2309116115 <br> **Kelas:** SI C '24 <br> | **NIM:** 2309116096 <br> **Kelas:** SI C '24 <br> |
+| **NIM:** 2309116105 <br> **Kelas:** SI C '24 <br> | **NIM:** 2309116101 <br> **Kelas:** SI C '24 <br>  | **NIM:** 2309116116 <br> **Kelas:** SI C '24 <br> | **NIM:** 2309116115 <br> **Kelas:** SI C '24 <br> | **NIM:** 2409116096 <br> **Kelas:** SI C '24 <br> |
 
 ## Nama Program
 AgriChain merupakan sebuah sistem informasi pertanian yang berfungsi sebagai wadah digital khusus hasil panen padi. Platform ini mempertemukan petani dan distributor dalam satu sistem terpadu di mana petani dapat mencatat dan menawarkan hasil panennya secara langsung, sementara distributor dapat melakukan permintaan dan pemesanan sesuai kebutuhan. 
