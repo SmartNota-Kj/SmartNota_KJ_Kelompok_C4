@@ -6,7 +6,7 @@
 
 ## 📚 Daftar Isi
 - [👤 Profil Anggota](#-profil-anggota)
-- [🌾 Nama Program](#-nama-program)
+- [🧾 Nama Program](#-nama-program)
 - [📝 Deskripsi Program](#-deskripsi-program)
 - [⚙️ Fitur Program](#️-fitur-program)
 - [📂 Struktur Folder / Package](#-struktur-folder--package)
